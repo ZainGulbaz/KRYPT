@@ -1,0 +1,11 @@
+{
+  "name": "smart_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethereum-waffle": "^3.4.4",
+    "hardhat": "^2.9.3"
+  }
+}

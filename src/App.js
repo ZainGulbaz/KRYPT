@@ -1,11 +1,28 @@
 import './App.css';
-import Signup from './Components/Signup/Signup';
+import { Navbar, Services, Transactions, Welcome,Footer } from './Components';
 
 function App() {
   return (
    <>
-   <Signup/>
-   </>
+
+
+  <Navbar/>
+  
+  <Welcome/>
+  <Services/>
+  
+  <Transactions/>
+  
+  <Footer/>
+
+
+
+
+
+  
+  
+
+     </>
   );
 }
 
